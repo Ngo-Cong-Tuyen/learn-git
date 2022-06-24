@@ -1,0 +1,14 @@
+Index: test/file.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test/file.java b/test/file.java
+new file mode 100644
+--- /dev/null	(date 1656031758500)
++++ b/test/file.java	(date 1656031758500)
+@@ -0,0 +1,4 @@
++package test;
++
++public class file {
++}
